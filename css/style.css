@@ -1,0 +1,156 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(201, 201, 240);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    color: midnightblue;
+    text-align: center;
+}
+.logo {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    width: 40px;
+    height: auto;
+}
+.logo1 {
+    float: right;
+    width: 350px;
+    height: 500px;
+    border: solid;
+    margin-right: 10px;
+}
+.navbar {
+        display: flex;
+        justify-content:center;
+        background-color: midnightblue;
+        padding: 30px;
+        color: aliceblue;
+}
+.nav-links a {
+    margin: 0 10px;
+    padding: 8px 12px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 18px;
+    color: aliceblue;
+}
+.nav-links a:hover {
+    background-color: blueviolet;
+    color:aliceblue;
+}
+.logo2 {
+    float: right;
+    width: 400px;
+    height: 400px;
+    border: solid;
+    margin-right: 20px;
+}
+.logo3 {
+    float: right;
+    width: 550px;
+    height: 350px;
+    border: solid;
+    margin-right: 20px;
+}
+.logo4 {
+    float: right;
+    width: 550px;
+    height: 200px;
+    border: solid;
+}
+.logo5 {
+    float: right;
+    width: 270px;
+    height: 250px;
+    border: solid;
+}
+dt {
+    color: darkblue;
+    font-weight: bold;
+    font-size: larger;
+    text-decoration: underline;
+    margin-left: 10px;
+}
+dd {
+    color:indigo;
+    font-size: large;
+    margin-left: 20px;
+}
+.A1{
+    color: indigo;
+}
+.A1:hover {
+    color: blue;
+}
+.A1:visited {
+    color:beige;
+}
+table {
+    border: solid;
+    border-color: midnightblue;
+    margin-left: 20px;
+}
+th {
+    border: solid;
+    border-color: midnightblue;
+    padding: 8px;
+    color: midnightblue;
+}
+td {
+    border: solid;
+    border-color: darkblue;
+    padding: 8px;
+    color:indigo;
+}
+h2{
+    color: midnightblue;
+    margin-left: 15px;
+}
+ul {
+    color: indigo;
+    font-size: 20px;
+    margin-left: 20px;
+}
+.Paragraph {
+    font-size: 20px;
+    color: midnightblue;
+    text-align: left;
+    margin-left: 15px;
+}
+h3 {
+ color: midnightblue;
+ margin-left: 15px;
+}
+h4 {
+ color: midnightblue;
+ margin-left: 15px;
+}
+form {
+    color: midnightblue;
+    margin-left: 15px;
+}
+input {
+    color: indigo;
+    background-color: rgb(171, 171, 238);
+}
+textarea {
+    width: 200px;
+    background-color:rgb(171, 171, 238);
+}
+.Paragraph2 {
+    border: solid;
+    border-color: darkblue;
+    width: 500px;
+    height: 50px;
+    font-size: 22px;
+    color:midnightblue;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    }
